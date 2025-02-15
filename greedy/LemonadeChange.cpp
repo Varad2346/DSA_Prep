@@ -37,7 +37,7 @@ bool lemonadeChange(vector<int>& bills) {
 
 
 int main() {
-    vector<int> bills = {5, 5, 5, 10, 10,10,10};
+    vector<int> bills = {5, 5, 5, 5, 10,10,10};
     cout << "Queues of customers: ";
     for(int bill : bills){
         cout << bill << " ";
