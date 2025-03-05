@@ -1,5 +1,5 @@
-1.Transpose
-2.Reverse
+// 1.Transpose
+// 2.Reverse
 
 #include<vector>
 
